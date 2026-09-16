@@ -1,0 +1,15 @@
+.venv/
+.idea/
+.git/
+.gitignore
+.env
+
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+logs/
+**/chroma_db/
+md5.text
+
+*.log

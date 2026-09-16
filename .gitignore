@@ -1,0 +1,10 @@
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+.env
+logs/
+chroma_db/
+agent/chroma_db/
+rag/chroma_db/
+md5.text

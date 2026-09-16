@@ -1,0 +1,14 @@
+[project]
+name = "rag-agent-f"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "dashscope>=1.27.5",
+    "langchain>=1.4.0",
+    "langchain-chroma>=1.1.0",
+    "langchain-community>=0.4.2",
+    "langchain-text-splitters>=1.1.2",
+    "pypdf>=6.19.0",
+    "pyyaml>=6.0.3",
+    "streamlit>=1.64.0",
+]
